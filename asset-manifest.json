@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/FactfullnessTest/static/css/main.8a360022.chunk.css",
-    "main.js": "/FactfullnessTest/static/js/main.b065c1f9.chunk.js",
-    "main.js.map": "/FactfullnessTest/static/js/main.b065c1f9.chunk.js.map",
+    "main.css": "/FactfullnessTest/static/css/main.c7049b23.chunk.css",
+    "main.js": "/FactfullnessTest/static/js/main.142cf830.chunk.js",
+    "main.js.map": "/FactfullnessTest/static/js/main.142cf830.chunk.js.map",
     "runtime-main.js": "/FactfullnessTest/static/js/runtime-main.68d1b9e5.js",
     "runtime-main.js.map": "/FactfullnessTest/static/js/runtime-main.68d1b9e5.js.map",
     "static/js/2.be47d8ca.chunk.js": "/FactfullnessTest/static/js/2.be47d8ca.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.fed7b687.chunk.js": "/FactfullnessTest/static/js/3.fed7b687.chunk.js",
     "static/js/3.fed7b687.chunk.js.map": "/FactfullnessTest/static/js/3.fed7b687.chunk.js.map",
     "index.html": "/FactfullnessTest/index.html",
-    "static/css/main.8a360022.chunk.css.map": "/FactfullnessTest/static/css/main.8a360022.chunk.css.map",
+    "static/css/main.c7049b23.chunk.css.map": "/FactfullnessTest/static/css/main.c7049b23.chunk.css.map",
     "static/js/2.be47d8ca.chunk.js.LICENSE.txt": "/FactfullnessTest/static/js/2.be47d8ca.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.68d1b9e5.js",
     "static/js/2.be47d8ca.chunk.js",
-    "static/css/main.8a360022.chunk.css",
-    "static/js/main.b065c1f9.chunk.js"
+    "static/css/main.c7049b23.chunk.css",
+    "static/js/main.142cf830.chunk.js"
   ]
 }
